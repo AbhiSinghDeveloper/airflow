@@ -300,6 +300,7 @@ Currently, **officially** using Airflow:
 1. [M4U](https://www.m4u.com.br/) [[@msantino](https://github.com/msantino)]
 1. [Macquarie Group](https://www.macquarie.com) [[@PApostol](https://github.com/PApostol)]
 1. [Madrone](http://madroneco.com/) [[@mbreining](https://github.com/mbreining) & [@scotthb](https://github.com/scotthb)]
+1. [Mahindra Group](https://www.mahindra.com/)[[@AbhiSinghDeveloper](https://github.com/AbhiSinghDeveloper/)]
 1. [Markovian](https://markovian.com/) [[@al-xv](https://github.com/al-xv), [@skogsbaeck](https://github.com/skogsbaeck), [@waltherg](https://github.com/waltherg)]
 1. [Match.com](https://www.match.com/) [[@match-gabeflores](https://github.com/match-gabeflores)]
 1. [Menhir Financial](https://www.menhir.ai/) [[@pablo-menhir](https://github.com/pablo-menhir), [@dionisio-menhir](https://github.com/dionisio-menhir) & [@luisjvca-menhir](https://github.com/luisjvca-menhir)]
